@@ -22,7 +22,7 @@ color:
     - '#aa002b'
     - '#ff0000'
   brandStrength: 0.03515909495763481
-  lightness: 0.04571796045638621
+  lightness: 1
   saturation: 0.257114480715245
   rhythmicContrast: 0.7166245426051319
 purpose: []
