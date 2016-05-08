@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[LifeMultimedia]]></title>
         <description><![CDATA[LifeMultimedia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lifemultimedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 15:31:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 15:47:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lifemultimedia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b8ec9fb-bf0c-443d-bbd5-40f1f478f2b7.jpg">]]></description>
+            <link>https://thegrid.ai/lifemultimedia/we-bring-restaurants-to-life-by-telling-stories-about-the-pa/index.html</link>
+            <guid isPermaLink="false">ed05b701-efd7-4aae-9b13-11557db18f87</guid>
+            <pubDate>Sun, 08 May 2016 15:46:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ecc491e-2e3c-4d7b-884b-cfa1024950a3.jpg">]]></description>
-            <link>undefinedwe-bring-restaurants-to-life-by-showcasing-the-passion-of-th/index.html</link>
+            <link>https://thegrid.ai/lifemultimedia/we-bring-restaurants-to-life-by-showcasing-the-passion-of-th/index.html</link>
             <guid isPermaLink="false">daec822e-f349-4bee-a880-68d6cf34dd66</guid>
             <pubDate>Sun, 08 May 2016 15:31:51 GMT</pubDate>
         </item>
