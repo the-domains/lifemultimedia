@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LifeMultimedia]]></title>
+        <description><![CDATA[LifeMultimedia]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 08 May 2016 15:31:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ecc491e-2e3c-4d7b-884b-cfa1024950a3.jpg">]]></description>
+            <link>undefinedwe-bring-restaurants-to-life-by-showcasing-the-passion-of-th/index.html</link>
+            <guid isPermaLink="false">daec822e-f349-4bee-a880-68d6cf34dd66</guid>
+            <pubDate>Sun, 08 May 2016 15:31:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
