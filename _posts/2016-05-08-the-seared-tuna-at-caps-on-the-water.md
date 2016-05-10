@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: 'https://vimeo.com/165769006'
 inLanguage: null
 keywords: []
-description: 'http://www.Capsonthewater.com Chef Chip Richard describes the advantage of being such a big restaurant and vendors competing to provide their best fish.'
-datePublished: '2016-05-10T15:46:21.195Z'
-dateModified: '2016-05-10T15:46:14.404Z'
+description: This video was boosted on Facebook/
+datePublished: '2016-05-10T15:51:46.974Z'
+dateModified: '2016-05-10T15:50:47.550Z'
 author:
   - name: Han Tak
     url: 'http://vimeo.com/user48722357'
@@ -53,4 +53,6 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+This video was boosted on Facebook/
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F165769006&amp;url=https%3A%2F%2Fvimeo.com%2F165769006&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F569708538_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
