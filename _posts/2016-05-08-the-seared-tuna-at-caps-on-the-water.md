@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/165769006'
+inLanguage: null
+keywords: []
+description: 'http://www.Capsonthewater.com Chef Chip Richard describes the advantage of being such a big restaurant and vendors competing to provide their best fish.'
+datePublished: '2016-05-10T15:46:21.195Z'
+dateModified: '2016-05-10T15:46:14.404Z'
 author:
   - name: Han Tak
     url: 'http://vimeo.com/user48722357'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'http://www.Capsonthewater.com Chef Chip Richard describes the advantage of being such a big restaurant and vendors competing to provide their best fish.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/165769006'
     type: ios
@@ -38,15 +40,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/165769006'
 title: The seared Tuna at Caps on the water
-datePublished: '2016-05-08T16:17:40.379Z'
-dateModified: '2016-05-08T16:17:25.421Z'
-starred: false
 sourcePath: _posts/2016-05-08-the-seared-tuna-at-caps-on-the-water.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
