@@ -31,7 +31,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Caps
+  - name: Caps on the water
     url: 'https://www.facebook.com/capsonthewater/videos'
     type: external
   - name: Sunset
