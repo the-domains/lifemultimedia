@@ -19,6 +19,12 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Han Tak
+  email: Han@LifeMultimedia.com
+  url: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd50e606-a1ff-406a-9286-c06d31cd1acd.png
 name: LifeMultimedia
 cta:
   domain: null
@@ -37,7 +43,8 @@ navigation:
   - name: Current Projects
     url: 'https://vimeo.com/user48722357/videos'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/06429f99-61f3-43d9-a861-4ab69eec4659.png
 title: Your Story
 description: Brought to Life
 purpose: []
