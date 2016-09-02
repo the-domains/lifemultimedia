@@ -43,6 +43,9 @@ navigation:
   - name: Current Projects
     url: 'https://vimeo.com/user48722357/videos'
     type: external
+  - name: About the Storyteller
+    url: 'https://www.facebook.com/han.tak.96'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/06429f99-61f3-43d9-a861-4ab69eec4659.png
 title: Your Story to Life
