@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Caps
+    url: 'https://www.facebook.com/capsonthewater/videos'
+    type: external
 favicon: null
 title: Your Story
 description: Brought to Life
